@@ -8,7 +8,7 @@ namespace ProjectPenjualan
     class Program  
     {
         // deklarasi objek collection untuk menampung objek penjualan
-
+         
         static List<Penjualan> daftarPenjualan = new List<Penjualan>();
          
         static void Main(string[] args)

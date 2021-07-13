@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ProjectPenjualan
 {
-    class Program 
+    class Program  
     {
         // deklarasi objek collection untuk menampung objek penjualan
 

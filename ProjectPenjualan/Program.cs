@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ProjectPenjualan
 {
-    class Program
+    class Program 
     {
         // deklarasi objek collection untuk menampung objek penjualan
 
@@ -117,7 +117,7 @@ namespace ProjectPenjualan
             Console.WriteLine("");
             Console.Write("Nota : ");
             delete = int.Parse(Console.ReadLine());
-            int x = 0;
+            int x = 0; 
             foreach (Penjualan daftar in daftarPenjualan)
             {
                 if (delete == daftar.Code)

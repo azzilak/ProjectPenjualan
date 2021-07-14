@@ -61,7 +61,7 @@ namespace ProjectPenjualan
             Console.WriteLine("4. Keluar");
         }
 
-        static void TambahPenjualan()
+        static void TambahPenjualan() 
         {
             Console.Clear();
 

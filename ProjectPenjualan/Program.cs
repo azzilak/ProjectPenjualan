@@ -71,7 +71,7 @@ namespace ProjectPenjualan
             int kodeID;
             string tanggal, nama, kategori1;
             string kategori2 = "error";
-            int total;
+            double total;
 
             Console.WriteLine("Tambah Data Penjualan");
             Console.WriteLine("");
